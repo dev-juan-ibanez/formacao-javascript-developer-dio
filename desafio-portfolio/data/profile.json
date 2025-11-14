@@ -9,27 +9,32 @@
     "hardSkills": [
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/react.png"
       },
       {
         "name": "TypeScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/typescript.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/typescript.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/typescript.png"
+      
       },
       {
         "name": "Node.js",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/node.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/python.png"
       },
       {
         "name": "Go",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/go.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/golang.svg"
       },
       {
         "name": "PostgreSQL",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/postgres.png"
       }
     ],
     "softSkills": [
@@ -42,7 +47,9 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)"
+    "Inglês (intermediário)",
+    "Espanhou (intermediário)",
+    "Fancês (básico)"
   ],
   "portfolio": [
     {
