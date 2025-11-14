@@ -1,0 +1,66 @@
+{
+  "name": "Juan Daniel Ferreira Ibanez",
+  "photo": "https://avatars.githubusercontent.com/u/238863014?v=4",
+  "job": "Full Stack Developer | Researcher | Master's Student",
+  "location": "São Luís - MA",
+  "phone": "(98) XXXXX-XXXX",
+  "email": "dev.juan.ibanez@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/typescript.png"
+      },
+      {
+        "name": "Node.js",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "Go",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/go.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Curiosidade",
+      "Criatividade",
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Pensamento crítico"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Projetos de Desenvolvimento Web e Mobile",
+      "url": "https://github.com/dev-juan-ibanez",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Pesquisador | UFMA",
+      "period": "2023 - até o momento",
+      "description": "Desenvolvimento de pesquisas na área de Engenharia Elétrica e Tecnologia."
+    },
+    {
+      "name": "Desenvolvedor Full Stack | Freelance",
+      "period": "2021 - até o momento",
+      "description": "Desenvolvimento de aplicações web e mobile usando React, Node.js e tecnologias modernas."
+    }
+  ]
+}
