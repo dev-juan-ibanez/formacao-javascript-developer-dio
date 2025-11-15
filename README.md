@@ -1,5 +1,4 @@
 # FORMACAO JAVASCRIPT DEVELOPER - DIO
-# ==================================================
 
 ### 📚 SOBRE A FORMACAO
 Este repositorio foi criado para armazenar os projetos e desafios, desenvolvidos durante a Formacao JavaScript Developer da DIO.
