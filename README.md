@@ -1,11 +1,10 @@
 # FORMACAO JAVASCRIPT DEVELOPER - DIO
 # ==================================================
 
-# 📚 SOBRE A FORMACAO
-# Este repositorio foi criado para armazenar os projetos e desafios 
-# desenvolvidos durante a Formacao JavaScript Developer da DIO.
+### 📚 SOBRE A FORMACAO
+Este repositorio foi criado para armazenar os projetos e desafios, desenvolvidos durante a Formacao JavaScript Developer da DIO.
 
-# 🗂️  ESTRUTURA DO REPOSITORIO
+### 🗂️  ESTRUTURA DO REPOSITORIO
 ```text
 formacao-javascript-developer-dio/
 │
@@ -29,54 +28,58 @@ formacao-javascript-developer-dio/
     └── 📄 README.md
 ```
 
-# 🚀 COMO EXECUTAR OS PROJETOS
+### 🚀 COMO EXECUTAR OS PROJETOS
 
-# Para executar qualquer projeto:
+**Para executar qualquer projeto:**
 ```bash
 cd nome-do-projeto          # navegue ate a pasta do projeto
 ```
 
-# Opcao 1: Abrir diretamente
+**Opcao 1: Abrir diretamente**
 open index.html            # Mac
 xdg-open index.html        # Linux
 start index.html           # Windows
 
-# Opcao 2: Servidor local (recomendado)
+**Opcao 2: Servidor local (recomendado)**
 ```bash
 python -m http.server 8000
 ```
-# ou
+**ou**
 ```bash
 npx http-server
 ```
 
-# 🌐 Acesse: http://localhost:8000
+### 🌐 Acesse: http://localhost:8000
 
 # 📋 PROJETO 1: POKEDEX
-# Funcionalidades:
-# ✅ Listagem dos 151 Pokemon da primeira geracao
-# ✅ Carregamento progressivo (Load More)
-# ✅ Busca por nome e filtro por tipo
-# ✅ Modal com detalhes completos
-# ✅ Design responsivo
+### Funcionalidades:
+-  ✅ Listagem dos 151 Pokemon da primeira geracao;
+-  ✅ Carregamento progressivo (Load More);
+-  ✅ Busca por nome e filtro por tipo;
+-  ✅ Modal com detalhes completos;
+-  ✅ Design responsivo.
 
 # 📋 PROJETO 2: PORTFOLIO  
-# Funcionalidades:
-# ✅ Design responsivo
-# ✅ Navegacao suave entre secoes
-# ✅ Formulario de contato
-# ✅ Animações e efeitos visuais
+### Funcionalidades:
+-  ✅ Design responsivo;
+-  ✅ Navegacao suave entre seções;
+-  ✅ Formulario de contato;
+-  ✅ Animações e efeitos visuais.
 
-# 🛠️ TECNOLOGIAS UTILIZADAS
-# HTML5, CSS3, JavaScript ES6+, APIs REST, Git/GitHub
+### 🛠️ TECNOLOGIAS UTILIZADAS
+- HTML5,
+- CSS3,
+- JavaScript ES6+,
+- APIs REST,
+- Git/GitHub.
 
-# 👨‍💻 DESENVOLVEDOR
-# Juan Ibanez - Estudante de desenvolvimento web
+### 👨‍💻 DESENVOLVEDOR
+**Juan Ibanez - Estudante de desenvolvimento web**
 
-# 📞 COMANDOS UTEIS
+### 📞 COMANDOS UTEIS
 ```bash
 git clone <url-repositorio>      # clonar repositorio
 cd formacao-javascript-developer-dio  # entrar na pasta
 ls -la                           # listar projetos
 ```
-# ⭐ Se este repositorio foi util, deixe uma estrela!
+*** ⭐ Se este repositorio foi util, deixe uma estrela! ***
