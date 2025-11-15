@@ -9,32 +9,35 @@
     "hardSkills": [
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/desafio-portfolio/data/imgs/react.png"
       },
       {
         "name": "TypeScript",
-        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/typescript.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/desafio-portfolio/data/imgs/typescript.png"
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/typescript.png"
-      
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/desafio-portfolio/data/imgs/js.png"
       },
       {
         "name": "Node.js",
-        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/node.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/desafio-portfolio/data/imgs/nodejs.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/desafio-portfolio/data/imgs/python.png"
       },
       {
         "name": "Go",
-        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/golang.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/desafio-portfolio/data/imgs/golang.png"
       },
       {
         "name": "PostgreSQL",
-        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/data/imgs/postgres.png"
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/desafio-portfolio/data/imgs/postgresql.png"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://raw.githubusercontent.com/dev-juan-ibanez/formacao-javascript-developer-dio/main/desafio-portfolio/data/imgs/docker.png"
       }
     ],
     "softSkills": [
@@ -48,8 +51,8 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhou (intermediário)",
-    "Fancês (básico)"
+    "Espanhol (intermediário)",
+    "Francês (básico)"
   ],
   "portfolio": [
     {
